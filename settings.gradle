@@ -1,0 +1,2 @@
+include ':test_app'
+rootProject.name = "AndroidRemoteLogViewer"
